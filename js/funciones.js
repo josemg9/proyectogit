@@ -1,1 +1,3 @@
-
+functions saluda(){
+  alert("hola");
+}
